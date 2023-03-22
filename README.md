@@ -1,1 +1,3 @@
-# FX_auto_trading_tool
+# 概要
+Pythonを用いてFX自動売買ツールを作成する予定です
+Pandasを現在学習中です。学習完了したら更新します。
